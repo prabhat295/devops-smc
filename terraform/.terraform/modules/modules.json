@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"cloudfront","Source":"./modules/cloudfront","Dir":"modules/cloudfront"},{"Key":"s3","Source":"./modules/s3","Dir":"modules/s3"},{"Key":"s3.codebuild","Source":"./modules/codebuild","Dir":""},{"Key":"s3.codepipeline","Source":"./modules/codepipeline","Dir":""},{"Key":"s3.iam","Source":"./modules/iam","Dir":""}]}
