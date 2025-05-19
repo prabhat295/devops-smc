@@ -23,5 +23,3 @@ dist-ssr
 *.sln
 *.sw?
 
-# Ignore terraform.tfvars to prevent committing secrets
-terraform/terraform.tfvars
